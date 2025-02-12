@@ -1,7 +1,7 @@
 ## Overview
-A Naive attempt of a AI RAG app to try out Docling doc processor and NEO4j db. 
+A Naive attempt of an AI RAG app to try out the new Docling doc processor and NEO4j db. 
 
-Just wanted to try out how Docling works comparing to existing PDF readers as well as Neo4j comparing to chroma db for embeddings storage and chunk relationship if questions are not straightforward.
+Just wanted to try out how Docling works comparing to existing PDF readers as well as Neo4j comparing to chroma db for embeddings storage and chunk relationship if questions are not straightforward or semanitc similarity.
 
 ## Features
 1. Ollama models for embeddings and query
